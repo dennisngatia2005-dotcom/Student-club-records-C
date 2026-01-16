@@ -1,7 +1,8 @@
 /*SCS3/150359/2025
 SCS3/2495/2025
 SCS3/2486/2025
-SCS3/150365/2025*/
+SCS3/150365/2025
+https://github.com/dennisngatia2005-dotcom/Student-club-records-C.git*/
 #include<stdio.h>
 #include<string.h>
 struct student{
