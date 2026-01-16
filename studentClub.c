@@ -76,7 +76,6 @@ int main(){
         printf("\n\nChoice: ");
         scanf("%d",&choice);
         getchar();
-        //int choice2=atoi(choice);
         switch(choice){
             case 1:
             captureDetails();
